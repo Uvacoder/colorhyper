@@ -4,7 +4,7 @@
       <h1
         class="text-5xl font-extrabold leading-snug text-transparent lg:leading-tight lg:text-6xl bg-clip-text bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500"
       >
-        Hypercolor
+        ColorHyper
       </h1>
 
       <div class="max-w-xl mx-auto text-lg leading-relaxed text-gray-900 dark:text-gray-100">
